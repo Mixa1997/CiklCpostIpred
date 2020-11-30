@@ -1,0 +1,15 @@
+E:\Работы VS\Cikl s pred i post\bin\Debug\Cikl s pred i post.exe.config
+E:\Работы VS\Cikl s pred i post\bin\Debug\Cikl s pred i post.exe
+E:\Работы VS\Cikl s pred i post\bin\Debug\Cikl s pred i post.pdb
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.csprojAssemblyReference.cache
+E:\Работы VS\Cikl s pred i post\obj\Debug\MainWindow.g.cs
+E:\Работы VS\Cikl s pred i post\obj\Debug\App.g.cs
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post_MarkupCompile.cache
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post_MarkupCompile.lref
+E:\Работы VS\Cikl s pred i post\obj\Debug\MainWindow.baml
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.g.resources
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl_s_pred_i_post.Properties.Resources.resources
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.csproj.GenerateResource.cache
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.csproj.CoreCompileInputs.cache
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.exe
+E:\Работы VS\Cikl s pred i post\obj\Debug\Cikl s pred i post.pdb
